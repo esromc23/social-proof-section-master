@@ -25,6 +25,12 @@ body {
     line-height: 1.5;
   }
 
+  h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+
   .rating {
   background-color: hsl(300, 24%, 96%);
   margin: 20px;
