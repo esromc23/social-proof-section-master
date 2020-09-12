@@ -20,5 +20,5 @@ body {
   }
 
   .testimonial-card {
-    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 43%, 22%);
   }
