@@ -1,6 +1,7 @@
 body {
     font-family: "Spartan";
-    background-image: url("images/bg-pattern-top-desktop.svg");
+    background-image: url("images/image-colton.jpg");
+    background-repeat: repeat;
     background-color: #f0f0f0;
   }
 
