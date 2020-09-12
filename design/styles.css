@@ -19,6 +19,11 @@ body {
     line-height: 1.5;
   }
 
+  .rating {
+  background-color: hsl(300, 24%, 96%);
+  padding: 15px;
+  }
+
   .testimonial-card {
     background-color: hsl(300, 43%, 22%);
     color: #fff;
