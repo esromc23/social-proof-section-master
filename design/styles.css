@@ -2,6 +2,7 @@ body {
     font-family: "Spartan";
     background-image: url("images/bg-pattern-top-desktop.svg");
     background-repeat: no-repeat;
+    background-color: #0000;
   }
 
   #title {
