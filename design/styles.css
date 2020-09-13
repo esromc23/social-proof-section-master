@@ -3,6 +3,7 @@ body {
     background-image: url("../images/bg-pattern-top-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
+    font-size: 15px;
 
     background-color: #f0f0f0;
   }
